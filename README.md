@@ -1,2 +1,2 @@
-# city-skyline
-City Skyline Responsive Web Design
+# City Skyline
+City Skyline Responsive Web Design by Abdallah - web developer
