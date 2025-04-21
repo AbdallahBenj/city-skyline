@@ -1,4 +1,4 @@
-# Learn CSS Variables by Building a City Skyline
+# CSS Variables by Building a City Skyline
 
 ## Overview
 In this project, I built a **city skyline** to learn and demonstrate the use of **CSS variables**. CSS variables allow you to define reusable values for styles, making it easier to manage and update the design across your website. By building a city skyline, I learned how to configure and apply these variables to create a consistent, flexible, and maintainable layout.
